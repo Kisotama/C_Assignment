@@ -10,43 +10,82 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            //Student what = new Student();
+            menu student_list = new menu();
 
-            //what.InputInfo();
-
-            //what.DisplayInfo();
-
-            //Console.ReadKey();
-
-            int num = 0;
+            int option;
 
             while (true)
             {
                 try
                 {
-                    Console.Write("Input number of students: ");
-                    num = Int32.Parse(Console.ReadLine());
+                    do
+                    {
+                        Console.Clear();
+                        Console.WriteLine("\n\t--------------- MENU ---------------n");
+                        Console.WriteLine("\t1. Add \n");
+                        Console.WriteLine("\t2. Display . \n");
+                        Console.WriteLine("\t3. Search by name \n");
+                        Console.WriteLine("\t4. Search by Id \n");
+                        Console.WriteLine("\t5. Remove by Id\n");
+                        Console.WriteLine("\t6. Update by Id\n");
+                        Console.WriteLine("\t7. Exit\n");
+                        Console.WriteLine("\t------------------------------n");
+                        Console.Write("\tChoose it bruh: ");
+                        option = Convert.ToInt32(Console.ReadLine());
+                        switch (option)
+                        {
+                            case 1:
+                                Console.Clear();
+                                student_list.AddStudent();
+                                Console.ReadKey();
+                                break;
+                            case 2:
+                                Console.Clear();
+                                student_list.DisplayAllStudent();
+                                Console.ReadKey();
+                                break;
+                            case 3:
+                                Console.Clear();
+                                Console.Write("Enter a  Name: ");
+                                String name = Console.ReadLine();
+                                student_list.SearchStudentByName(name);
+                                Console.ReadKey();
+                                break;
+                            case 4:
+                                Console.Clear();
+                                Console.Write("Enter   ID: ");
+                                String id = Console.ReadLine();
+                                student_list.SearchStudentByName(id);
+                                Console.ReadKey();
+                                break;
+                            case 5:
+                                Console.Clear();
+                                Console.Write("Enter ID: ");
+                                String id_1 = Console.ReadLine();
+                                student_list.RemoveStudent(id_1);
+                                Console.ReadKey();
+                                break;
+                            case 6:
+                                Console.Clear();
+                                Console.Write("Enter ID: ");
+                                String id_2 = Console.ReadLine();
+                                student_list.UpdateStudent(id_2);
+                                Console.ReadKey();
+                                break;
+                            case 0:
+                                break;
+                            default:
+                                break;
+                        }
+                    } while (option != 0);
                     break;
                 }
-                catch (Exception)
+                catch (Exception e)
                 {
-                    Console.WriteLine("Invalid Number");
+                    Console.WriteLine("Invalid number. Please write option");
                 }
-            }
-
-            Student[] nstu = new Student[num];
-            for (int i = 0; i < nstu.Length; i++)
-            {
-                nstu[i] = new Student();
-                nstu[i].InputInfo();
-
-            }
-
-            for (int i = 0; i < nstu.Length; i++)
-            {
-                nstu[i].DisplayInfo();
-                Console.ReadKey();
             }
         }
     }
 }
+        
