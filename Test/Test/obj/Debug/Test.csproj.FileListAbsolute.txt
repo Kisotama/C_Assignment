@@ -5,3 +5,10 @@ C:\Users\Mante\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.ca
 C:\Users\Mante\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 C:\Users\Mante\source\repos\Test\Test\obj\Debug\Test.exe
 C:\Users\Mante\source\repos\Test\Test\obj\Debug\Test.pdb
+D:\GitFolder\New folder\C_Assignment\Test\Test\bin\Debug\Test.exe.config
+D:\GitFolder\New folder\C_Assignment\Test\Test\bin\Debug\Test.exe
+D:\GitFolder\New folder\C_Assignment\Test\Test\bin\Debug\Test.pdb
+D:\GitFolder\New folder\C_Assignment\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\GitFolder\New folder\C_Assignment\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\GitFolder\New folder\C_Assignment\Test\Test\obj\Debug\Test.exe
+D:\GitFolder\New folder\C_Assignment\Test\Test\obj\Debug\Test.pdb

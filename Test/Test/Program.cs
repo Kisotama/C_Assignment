@@ -28,7 +28,7 @@ namespace Test
                         Console.WriteLine("\t4. Search by Id \n");
                         Console.WriteLine("\t5. Remove by Id\n");
                         Console.WriteLine("\t6. Update by Id\n");
-                        Console.WriteLine("\t7. Exit\n");
+                        Console.WriteLine("\t0. Exit\n");
                         Console.WriteLine("\t------------------------------n");
                         Console.Write("\tChoose it bruh: ");
                         option = Convert.ToInt32(Console.ReadLine());
@@ -55,7 +55,7 @@ namespace Test
                                 Console.Clear();
                                 Console.Write("Enter   ID: ");
                                 String id = Console.ReadLine();
-                                student_list.SearchStudentByName(id);
+                                student_list.SearchStudentById(id);
                                 Console.ReadKey();
                                 break;
                             case 5:
