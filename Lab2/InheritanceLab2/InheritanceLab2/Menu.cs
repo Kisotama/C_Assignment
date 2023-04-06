@@ -65,8 +65,8 @@ namespace InheritanceLab2
                     }
                 }
 
-                Console.WriteLine("Highest Average: " + highest);
-                Console.WriteLine("Lowest Average: " + lowest);
+                Console.WriteLine("\n Highest Average: " + highest);
+                Console.WriteLine("\n Lowest Average: " + lowest);
             }
             else
             {
@@ -82,10 +82,9 @@ namespace InheritanceLab2
             {
                 if (student.average >= 8)
                 {
-                    Console.WriteLine("Congratulation!");
+                    Console.WriteLine("\n Congratulation!, The Scholarship now is yours");
                     student.Displayinfo();
                 }
-                else Console.WriteLine("You piece of shit");
             }
         }
     }

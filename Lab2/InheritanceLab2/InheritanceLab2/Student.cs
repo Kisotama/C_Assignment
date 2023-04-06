@@ -32,8 +32,14 @@ namespace InheritanceLab2
         }
         public override void Displayinfo()
         {
-            base.Displayinfo();
-            
+            Console.WriteLine("------------Student INFO---------------");
+            Console.WriteLine("\n - Name: " + name);
+            Console.WriteLine("\n - Gender: " + gender);
+            Console.WriteLine("\n - Date of Birth: " + dob);
+            Console.WriteLine("\n - Address: " + address);
+            Console.WriteLine("\n - Student ID: " + studentid);
+            Console.WriteLine("\n - Average: " + average);
+            Console.WriteLine("----------------------------------------");
         }
 
     }

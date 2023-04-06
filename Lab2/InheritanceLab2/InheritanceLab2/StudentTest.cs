@@ -21,15 +21,15 @@ namespace InheritanceLab2
                     do
                     {
                         Console.Clear();
-                        Console.WriteLine("----------------------------------------");
-                        Console.WriteLine("\n1.Add");
-                        Console.WriteLine("\n2.Display");
-                        Console.WriteLine("\n3.Find the highest and the lowest");
-                        Console.WriteLine("\n4.Find students by Id");
-                        Console.WriteLine("\n5.Find Student got Scholarship");
-                        Console.WriteLine("\n6.Exit");
-                        Console.WriteLine("----------------------------------------");
-                        Console.WriteLine("Choose it");
+                        Console.WriteLine("============ Student Management ===========");
+                        Console.WriteLine("\n   1.Add ");
+                        Console.WriteLine("\n   2.Display ");
+                        Console.WriteLine("\n   3.Find the highest and the lowest ");
+                        Console.WriteLine("\n   4.Find students by Id ");
+                        Console.WriteLine("\n   5.Find Student got Scholarship ");
+                        Console.WriteLine("\n   6.Exit ");
+                        Console.WriteLine("===========================================");
+                        Console.WriteLine("\n Please Input the number.");
                         choices = Convert.ToInt32(Console.ReadLine());
                         switch (choices)
                         {
@@ -61,7 +61,8 @@ namespace InheritanceLab2
                                 Console.ReadKey();
                                 break;
                             case 6:
-                                break;
+                                Console.WriteLine("Exiting...");
+                                return;
                             default:
                                 break;
                         }
@@ -71,7 +72,7 @@ namespace InheritanceLab2
                 }
                 catch(Exception)
                 {
-                    Console.WriteLine("Nah");   
+                    Console.WriteLine("Invalid number, please try again.");   
                 }
             }
         }

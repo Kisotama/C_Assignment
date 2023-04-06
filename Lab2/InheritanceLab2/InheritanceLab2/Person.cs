@@ -53,10 +53,12 @@ namespace InheritanceLab2
 
         public virtual void Displayinfo()
         {
+            Console.WriteLine("------------Student INFO---------------");
             Console.WriteLine("\n - Name: " + name);
             Console.WriteLine("\n - Gender: " + gender);
             Console.WriteLine("\n - Date of Birth: " + dob);
             Console.WriteLine("\n - Address: " + address);
+            Console.WriteLine("----------------------------------------");
         }
 
         public virtual void Inputinfo()
