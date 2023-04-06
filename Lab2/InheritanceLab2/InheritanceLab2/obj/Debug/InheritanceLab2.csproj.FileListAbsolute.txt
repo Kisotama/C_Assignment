@@ -1,0 +1,7 @@
+D:\GitFolder\New folder\C_Assignment\Lab2\InheritanceLab2\InheritanceLab2\bin\Debug\InheritanceLab2.exe.config
+D:\GitFolder\New folder\C_Assignment\Lab2\InheritanceLab2\InheritanceLab2\bin\Debug\InheritanceLab2.exe
+D:\GitFolder\New folder\C_Assignment\Lab2\InheritanceLab2\InheritanceLab2\bin\Debug\InheritanceLab2.pdb
+D:\GitFolder\New folder\C_Assignment\Lab2\InheritanceLab2\InheritanceLab2\obj\Debug\InheritanceLab2.csproj.AssemblyReference.cache
+D:\GitFolder\New folder\C_Assignment\Lab2\InheritanceLab2\InheritanceLab2\obj\Debug\InheritanceLab2.csproj.CoreCompileInputs.cache
+D:\GitFolder\New folder\C_Assignment\Lab2\InheritanceLab2\InheritanceLab2\obj\Debug\InheritanceLab2.exe
+D:\GitFolder\New folder\C_Assignment\Lab2\InheritanceLab2\InheritanceLab2\obj\Debug\InheritanceLab2.pdb
