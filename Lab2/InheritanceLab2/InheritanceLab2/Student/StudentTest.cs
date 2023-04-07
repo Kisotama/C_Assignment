@@ -8,7 +8,7 @@ namespace InheritanceLab2
 {
     internal class StudentTest
     {
-         static void Main(String[] args)
+        public static void StudentManage()
         {
             Menu menu = new Menu();
 
@@ -61,7 +61,8 @@ namespace InheritanceLab2
                                 Console.ReadKey();
                                 break;
                             case 6:
-                                Console.WriteLine("Exiting...");
+                                Console.WriteLine("Back to Main Menu");
+                                Console.Clear();
                                 return;
                             default:
                                 break;

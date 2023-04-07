@@ -7,14 +7,16 @@ using System.Threading.Tasks;
 
 namespace InheritanceLab2
 {
-    class Menu
+    internal class Menu
     {
         private ArrayList studentlist;
 
         public Menu()
         {
-            this.studentlist = new ArrayList();
+            studentlist = new ArrayList();
         }
+
+
         public void AddStudent()
         {
             Student add_stu = new Student();
