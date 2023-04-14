@@ -1,0 +1,15 @@
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\bin\Debug\net7.0\lab2.1.exe
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\bin\Debug\net7.0\lab2.1.deps.json
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\bin\Debug\net7.0\lab2.1.runtimeconfig.json
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\bin\Debug\net7.0\lab2.1.dll
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\bin\Debug\net7.0\lab2.1.pdb
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.csproj.AssemblyReference.cache
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.AssemblyInfoInputs.cache
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.AssemblyInfo.cs
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.csproj.CoreCompileInputs.cache
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.dll
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\refint\lab2.1.dll
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.pdb
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\lab2.1.genruntimeconfig.cache
+D:\GitFolder\New folder\C_Assignment\Lab2_1\lab2.1\lab2.1\obj\Debug\net7.0\ref\lab2.1.dll
