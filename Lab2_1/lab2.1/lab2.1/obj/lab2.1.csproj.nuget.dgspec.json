@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj": {}
+    "D:\\Work\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj": {}
   },
   "projects": {
-    "D:\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj": {
+    "D:\\Work\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj",
+        "projectUniqueName": "D:\\Work\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj",
         "projectName": "lab2.1",
-        "projectPath": "D:\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj",
+        "projectPath": "D:\\Work\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\lab2.1.csproj",
         "packagesPath": "C:\\Users\\Mante\\.nuget\\packages\\",
-        "outputPath": "D:\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\obj\\",
+        "outputPath": "D:\\Work\\GitFolder\\New folder\\C_Assignment\\Lab2_1\\lab2.1\\lab2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
